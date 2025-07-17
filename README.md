@@ -105,6 +105,12 @@ Save it in the project root as `yolov5s.pt`.
 Open-source project under the MIT License.
 Please cite Ultralytics for the YOLOv5 base repository.
 
+
+## AUTHOR 
+
+Sreelekha A S, B S Abdur Rahman Crescent Institute Of Science And Technology
+Chennai
+
 ---
 
 ##  Acknowledgements
